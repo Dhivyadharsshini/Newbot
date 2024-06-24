@@ -13,3 +13,10 @@ public class addFirst {
 
     }
 }
+
+
+
+
+
+Output
+    [Blue,Black,Red]
