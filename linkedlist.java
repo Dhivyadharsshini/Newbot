@@ -9,3 +9,6 @@ class simpleprogram{
         System.out.println(colors);
     }
 }
+
+Output:
+[Black,Red,Blue]
