@@ -13,3 +13,6 @@ public class removeLast {
     
 }
 }
+
+output:
+[Carrot,Beetroot]
