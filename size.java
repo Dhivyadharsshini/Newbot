@@ -13,3 +13,5 @@ public class size {
     
 }
 }
+output:
+5
