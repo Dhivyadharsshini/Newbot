@@ -15,3 +15,9 @@ public class vertical{
 
     }
 }
+
+Output:
+    4
+    3
+    2
+    1
