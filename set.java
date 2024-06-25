@@ -13,3 +13,6 @@ public class set {
     
 }
 }
+
+output:
+[strawberry,papaya,apple,banana]
