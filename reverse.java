@@ -11,3 +11,6 @@ public class reverse {
     }
     
 }
+
+output:
+[Bharathi,Dharshini,Dhivya]
