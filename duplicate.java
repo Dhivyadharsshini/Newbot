@@ -23,3 +23,10 @@ public class duplicate {
         
     }
 }
+
+output:
+    9
+    8
+    9
+    7
+
