@@ -9,3 +9,8 @@ public class max {
         System.out.println(d>c?d:c);
     }
 }
+output:
+5
+6
+7
+7
