@@ -29,3 +29,6 @@ public class month {
         }
     }
 }
+output:
+5
+Thursday
