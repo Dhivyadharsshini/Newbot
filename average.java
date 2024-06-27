@@ -13,3 +13,6 @@ public class average {
         System.out.println(ave);
     }
 }
+
+output: 
+     5
