@@ -12,6 +12,13 @@ public class array{
         for(int i =0;i<arr.length;i++){
             sum=sum+arr[i];
         }
-        System.out.println(sum);
+        System.out.println("Sum:"sum);
     }
 }
+
+output:
+    3
+    1
+    2
+    3
+   Sum:6
