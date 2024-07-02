@@ -13,4 +13,5 @@ class Example{
     }
 }
     
-
+output:
+   0
