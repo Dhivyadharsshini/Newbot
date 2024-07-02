@@ -18,5 +18,8 @@ public class zero{
         d.display();
     }
 }
+output:
+   Dhivya 
+     99
 
 
