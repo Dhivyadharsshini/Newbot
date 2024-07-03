@@ -10,3 +10,6 @@ public class replace{
 }
 }
 
+output:
+Enter the String:Dhivya
+Dh vy
